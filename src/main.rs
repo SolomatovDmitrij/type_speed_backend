@@ -177,7 +177,8 @@ async fn main() -> std::io::Result<()> {
             .route("/load_result", web::post().to(load_result))
             .route("/api/login", web::post().to(login))
     })
-    .bind("192.168.0.210:3004")?
+  //  .bind("192.168.0.210:3004")?
+    .bind("147.78.66.199:3004")?
     .run()
     .await
 
