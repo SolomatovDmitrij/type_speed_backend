@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/rust_user/projects/type_speed_backend/target/release/build/typenum-adcaff32ab754c0f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/rust_user/projects/type_speed_backend/target/release/build/typenum-adcaff32ab754c0f/out/op.rs

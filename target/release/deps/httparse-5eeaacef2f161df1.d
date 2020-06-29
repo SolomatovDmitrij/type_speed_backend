@@ -1,0 +1,12 @@
+/home/rust_user/projects/type_speed_backend/target/release/deps/httparse-5eeaacef2f161df1.rmeta: /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/home/rust_user/projects/type_speed_backend/target/release/deps/libhttparse-5eeaacef2f161df1.rlib: /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/home/rust_user/projects/type_speed_backend/target/release/deps/httparse-5eeaacef2f161df1.d: /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs
+
+/home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/lib.rs:
+/home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/iter.rs:
+/home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/macros.rs:
+/home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/mod.rs:
+/home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/sse42.rs:
+/home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.3.4/src/simd/avx2.rs:

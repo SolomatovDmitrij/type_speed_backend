@@ -1,0 +1,11 @@
+/home/rust_user/projects/type_speed_backend/target/release/deps/tokio_rustls-25b6cfbff3890271.rmeta: /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/lib.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/client.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/common/mod.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/common/handshake.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/server.rs
+
+/home/rust_user/projects/type_speed_backend/target/release/deps/libtokio_rustls-25b6cfbff3890271.rlib: /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/lib.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/client.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/common/mod.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/common/handshake.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/server.rs
+
+/home/rust_user/projects/type_speed_backend/target/release/deps/tokio_rustls-25b6cfbff3890271.d: /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/lib.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/client.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/common/mod.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/common/handshake.rs /home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/server.rs
+
+/home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/lib.rs:
+/home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/client.rs:
+/home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/common/mod.rs:
+/home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/common/handshake.rs:
+/home/rust_user/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-rustls-0.13.1/src/server.rs:
